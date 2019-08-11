@@ -1,0 +1,23 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+	<ribbon startFromScratch="false">
+		<tabs>
+			<tab id="TabCinnamoroll" label="玉桂狗OA库" visible="true" insertAfterMso="TabDeveloper">
+				<group id="GrpDocMark" label="文档标注"> 
+					<button id="BtnAddItems" label="添加批注" onAction="AddComment" getImage="GetRibbonImage" size="large"/>
+					<button id="BtnAddItems" label="添加隐藏域" onAction="AddAddinField" getImage="GetRibbonImage" size="large"/>
+					<button id="BtnAddItems" label="添加标记" onAction="AddMarking" getImage="GetRibbonImage" size="large"/>
+					<button id="BtnDeleteItems" label="删除批注" onAction="DeleteComment" getImage="GetRibbonImage" size="large"/>
+					<button id="BtnDeleteItems" label="删除隐藏域" onAction="DeleteAddinField" getImage="GetRibbonImage" size="large"/>
+					<button id="BtnDeleteItems" label="删除标记" onAction="DeleteMarking" getImage="GetRibbonImage" size="large"/>
+				</group>
+				<group id="GrpDocComm" label="文档通信"> 
+					<button id="BtnDocCommDemo" label="与服务器通信" onAction="DocCommDemo" getImage="GetRibbonImage" size="large"/>
+				</group>
+				<group id="GrpDocMarkList" label="文档标注列表"> 
+					<dropDown id="ListDocMark" label="选择标记点" size="large"/>
+					<splitButton id="splitListDocMark" label="选择标记点" size="large"/>
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>

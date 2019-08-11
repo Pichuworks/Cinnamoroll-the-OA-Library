@@ -1,0 +1,11 @@
+D:\Code\Cinnamoroll-the-OA-Library\WPS-Word-Library\Cinnamoroll-the-WPS-OA-Library\bin\Debug\Cinnamoroll-the-WPS-OA-Library.dll
+D:\Code\Cinnamoroll-the-OA-Library\WPS-Word-Library\Cinnamoroll-the-WPS-OA-Library\bin\Debug\Cinnamoroll-the-WPS-OA-Library.pdb
+D:\Code\Cinnamoroll-the-OA-Library\WPS-Word-Library\Cinnamoroll-the-WPS-OA-Library\bin\Debug\Cinnamoroll-the-WPS-OA-Library.tlb
+D:\Code\Cinnamoroll-the-OA-Library\WPS-Word-Library\Cinnamoroll-the-WPS-OA-Library\obj\Debug\Interop.AddInDesignerObjects.dll
+D:\Code\Cinnamoroll-the-OA-Library\WPS-Word-Library\Cinnamoroll-the-WPS-OA-Library\obj\Debug\Cinnamoroll-the-WPS-OA-Library.csproj.ResolveComReference.cache
+D:\Code\Cinnamoroll-the-OA-Library\WPS-Word-Library\Cinnamoroll-the-WPS-OA-Library\obj\Debug\Cinnamoroll_the_WPS_OA_Library.Properties.Resource1.resources
+D:\Code\Cinnamoroll-the-OA-Library\WPS-Word-Library\Cinnamoroll-the-WPS-OA-Library\obj\Debug\Cinnamoroll-the-WPS-OA-Library.csproj.GenerateResource.cache
+D:\Code\Cinnamoroll-the-OA-Library\WPS-Word-Library\Cinnamoroll-the-WPS-OA-Library\obj\Debug\Cinnamoroll-the-WPS-OA-Library.csproj.CoreCompileInputs.cache
+D:\Code\Cinnamoroll-the-OA-Library\WPS-Word-Library\Cinnamoroll-the-WPS-OA-Library\obj\Debug\Cinnamoroll-the-WPS-OA-Library.dll
+D:\Code\Cinnamoroll-the-OA-Library\WPS-Word-Library\Cinnamoroll-the-WPS-OA-Library\obj\Debug\Cinnamoroll-the-WPS-OA-Library.pdb
+D:\Code\Cinnamoroll-the-OA-Library\WPS-Word-Library\Cinnamoroll-the-WPS-OA-Library\obj\Debug\Cinnamoroll-the-WPS-OA-Library.csprojAssemblyReference.cache
